@@ -1,0 +1,32 @@
+.title {
+    margin-left: 20px;
+    color: #1a415e;
+    font-weight: bold;
+}
+
+.hPad {
+    padding: 35px;
+}
+
+.vPad {
+    padding: 25px;
+}
+
+.tBut {
+    color: #cd6e16;
+    border-color: silver;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px grey;
+    background-color: #eeeeee;
+    font-size: 20px;
+    font-weight: bold;
+    width: 160px;
+}
+
+.tBut:hover {
+    color: #a3560f;
+}
+
+.tBut:focus {
+    color: #a3560f;
+}
